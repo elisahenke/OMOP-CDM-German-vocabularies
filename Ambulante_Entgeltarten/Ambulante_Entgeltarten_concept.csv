@@ -1,8 +1,8 @@
 concept_id	concept_name	domain_id	vocabulary_id	concept_class_id	standard_concept	concept_code	valid_start_date	valid_end_date	invalid_reason
-2000005477	Consultation demand	Observation	Outpatient charge	OUT charge code		21000010	2012-01-01	2099-12-31	
-2000005476	Without differentiation	Observation	Outpatient charge	OUT charge code		21000000	2012-01-01	2099-12-31	
 2000005474	University outpatient clinics according to § 117 SGB V	Observation	Outpatient charge	OUT charge Hierarchy		OMOP6000413	1970-01-01	2099-12-31	
 2000005475	Quarterly flat rate	Observation	Outpatient charge	OUT charge Hierarchy		OMOP6000414	1970-01-01	2099-12-31	
+2000005476	Without differentiation	Observation	Outpatient charge	OUT charge code		21000000	2012-01-01	2099-12-31	
+2000005477	Consultation demand	Observation	Outpatient charge	OUT charge code		21000010	2012-01-01	2099-12-31	
 2000005478	Kidney biopsy	Observation	Outpatient charge	OUT charge code		21000020	2012-01-01	2099-12-31	
 2000005479	Cytology	Observation	Outpatient charge	OUT charge code		21000030	2012-01-01	2099-12-31	
 2000005480	Histology	Observation	Outpatient charge	OUT charge code		21000040	2012-01-01	2099-12-31	
