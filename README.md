@@ -9,9 +9,7 @@ The semantic mappings are separated in a) new 2-billion concepts for missing voc
 
 - Behandlungsart
 
-- Diagnoseart
-
-- Einheitlicher Bewertungsmaßstab EBM)
+- Einheitlicher Bewertungsmaßstab (EBM)
 
 - Heilmittelkatalog (HMK)
 
