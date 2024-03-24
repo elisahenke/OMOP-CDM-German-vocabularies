@@ -1,7 +1,8 @@
 # OMOP-CDM-German-vocabularies
+
 This folder contains semantic mappings of German vocabularies as CSV-files for use within OMOP CDM. 
 
-The semantic mappings are separated in a) new 2-billion concepts for missing vocabularies in OMOP CDM (imports for vocabulary, concept_class, concept and concept_relationship table):
+The semantic mappings are separated in a) new 2-billion-concepts for missing vocabularies in OMOP CDM (imports for vocabulary, concept_class, concept and concept_relationship tables):
 
 - Ambulante Entgeltarten
 
@@ -21,7 +22,7 @@ The semantic mappings are separated in a) new 2-billion concepts for missing voc
 
 - Stationäre Entgeltarten
 
-and b) mappings to standard concepts (imports for care_site and source_to_concept_map table):
+and b) mappings to standard-concepts (imports for care_site and source_to_concept_map tables):
 
 - Fachabteilungsschlüssel
 
